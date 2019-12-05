@@ -15,4 +15,7 @@ Downloaded chat data from the Ubuntu Dialog Corpus
 --Trimmed data down to 50 rows
 
 --Uploaded CSV to s3
+
 --Created a topic modelling job in AWS Comprehend that writes to an s3 bucket
+
+--The topic modelling job produced a document topic and topic term file that was saved locally.
